@@ -1,6 +1,6 @@
 # Exercícios de Arquitetura de Computadores
 
-Este repositório contém alguns exercícios desenvolvidos em Assembly para a matéria de Arquitetura de Computadores no simulador MIPS MARS. Pretendo atualizar o repositório com novos exercícios resolvidos conforme eu for realizando.
+Este repositório contém alguns exercícios desenvolvidos em Assembly para a matéria de Arquitetura de Computadores, feitos no simulador MIPS MARS. Pretendo atualizar o repositório com novos exercícios resolvidos conforme eu for realizando.
 
 **Objetivo:**
 O objetivo deste repositório é compartilhar soluções para os exercícios de Assembly, além de receber sugestões de possíveis outras resoluções e melhorias.
