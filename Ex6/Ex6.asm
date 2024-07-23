@@ -1,6 +1,6 @@
 .data
 #definir vetor e seus elementos
-vetor1: 2 5 3 9 7 4 8 1
+vetor1: .word 2 5 3 9 7 4 8 1
 
 .text
 li $t0, 0 #i
